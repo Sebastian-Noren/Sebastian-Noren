@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/Sebastian-Noren">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Noren&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Noren&layout=compact&theme=light" />
 </a>
 <a href="https://github.com/Sebastian-Noren">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastian-Noren&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastian-Noren&show_icons=true&theme=light&line_height=27" alt="Sebastian Norén 's github stats"/>
 </a>
 <a href="https://github.com/Sebastian-Noren/AESCrypto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastian-Noren&repo=AESCrypto&theme=light" />
