@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+   <code> <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+          integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"></code>
+
 ### Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sebastian-Noren&label=Views&color=blue&style=plastic" alt="Sebastian Norén" /> </p>
