@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-          integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
- <a href="https://www.artstation.com/sebastiannoren"><i class="fab fa-artstation fa-2x"></i></a>
 ### Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sebastian-Noren&label=Views&color=blue&style=plastic" alt="Sebastian Norén" /> </p>
@@ -26,7 +23,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/Sebastian-Noren">
   <img align="left" alt="Sebastian Norén 's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<a href="https://www.artstation.com/sebastiannoren">
+  <img align="left" alt="Sebastian Norén 's Artstation" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/artstation.svg" />
+</a>
 <br/>
 <br/>
 
