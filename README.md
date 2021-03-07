@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+![Profile views](https://gpvc.arturio.dev/Sebastian-Noren)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sebastian-Noren&label=Views&color=blue&style=plastic" alt="Sebastian Norén" /> </p>
-![Profile views](https://gpvc.arturio.dev/Sebastian-Noren)  
 
 <a href="www.linkedin.com/in/sebastian-noren-3d">
   <img align="left" alt="Sebastian Norén 's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
