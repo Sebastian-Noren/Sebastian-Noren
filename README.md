@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there - currently under constructions! 👋
 
-![Profile views](https://gpvc.arturio.dev/Sebastian-Noren)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sebastian-Noren&label=Profile Views&color=blue&style=plastic" alt="Sebastian Norén" /> </p>
 
 <a href="www.linkedin.com/in/sebastian-noren-3d">
