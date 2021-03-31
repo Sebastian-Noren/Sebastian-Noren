@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sebastian-Noren&label=Profile Views&color=blue&style=plastic" alt="Sebastian Norén" /> </p>
 
-<a href="www.linkedin.com/in/sebastian-noren-softdev">
+<a href="https://www.linkedin.com/sebastian-noren-softdev/">
   <img align="left" alt="Sebastian Norén 's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Sebastian-Noren">
