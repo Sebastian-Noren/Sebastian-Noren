@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there - currently under constructions! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sebastian-Noren&label=Profile Views&color=blue&style=plastic" alt="Sebastian Norén" /> </p>
-
 <a href="https://www.linkedin.com/in/sebastian-noren-softdev/">
   <img align="left" alt="Sebastian Norén 's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -42,10 +40,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Sebastian-Noren">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastian-Noren&show_icons=true&theme=light&line_height=27" alt="Sebastian Norén 's github stats"/>
 </a>
-  <!--
-<a href="https://github.com/Sebastian-Noren/AESCrypto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastian-Noren&repo=AESCrypto&theme=light" />
-</a>
--->
 <div align="center">
 </div>
