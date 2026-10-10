@@ -37,8 +37,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Sebastian-Noren">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Noren&langs_count=10&layout=compact&theme=light&line_height=27" />
 </a>
-<a href="https://github.com/Sebastian-Noren">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sebastian-Noren&show_icons=true&theme=light&line_height=27" alt="Sebastian Norén 's github stats"/>
-</a>
 <div align="center">
 </div>
